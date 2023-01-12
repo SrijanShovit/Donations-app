@@ -1,13 +1,17 @@
-# Sample Hardhat Project
+# Donation Dapp
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+A platform where people can donate me a small amount of ether with some message for learning web3 😎
 
-Try running some of the following tasks:
+The app will list up all the transactions with the sender's address, time, name and message filled by the sender.
+ 
+Tech Stacks used : 
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+- React.js
+- Hardhat
+- ethers.js
+- Solidity
+- Remix IDE
+- JavaScript
+- Ethereum blockchain
+- Metamask
+- Alchemy
